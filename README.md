@@ -17,3 +17,5 @@ To ensure software reliability and correctness, unit testing is performed on ind
 - Account creation and duplication checks
 - Boundary and negative test cases
 - Improved code reliability and maintainability
+
+<img width="788" height="572" alt="image" src="https://github.com/user-attachments/assets/c559e464-ccb8-4d73-bb15-2d629becb37e" />
